@@ -9,7 +9,7 @@ esta es la transcripción:
 #### 2.1. Operaciones punto a punto y filtros
 #### 2.2. Segmentación de imágenes y procesado morfológico
 #### 2.3. Extracción de características
-#### 2.4. Deep Neural Networks para tratamiento de imagen (redes convolucionales). Redes para detección de objetos, Redes para segmentación de imágenes, Redes para matching entre imágenes, Redes para descripción de imágenes (image captioning), Redes para síntesis de imágenes
+#### 2.4. Deep Neural Networks para tratamiento de imagen (redes convolucionales). Redes para detección de objetos, Redes para segmentación de imágenes, Redes para matching entre imágenes, Redes para descripción de imágenes (image captioning), Redes para síntesis de imágenes (Generative Adversarial Networks)
 
 ### 3. Tratamiento de voz y audio
 #### 3.1. Producción de habla y percepción de audio
