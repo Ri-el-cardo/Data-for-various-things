@@ -1,7 +1,10 @@
 # Tratamiendo de Audio y Visión Artificial contenidos
 los contenidos de la asignatura en la [ficha reina](https://www.google.com) estaban vagamente explicados asi que le pregunté al coordinador y su respuesta fue esta,
 ![alt text](https://raw.githubusercontent.com/ricardo-chavez-torres/Data-for-various-things/main/Img/contenido%20Tratamiento%20de%20Audio%20y%20Visi%C3%B3n%20Artificial.png)
+![alt text](./Img/contenido%20Tratamiento%20de%20Audio%20y%20Visi%C3%B3n%20Artificial.png)
+![alt text](./Img/contenido Tratamiento de Audio y Visión Artificial.png)
 ![alt text](../Img/contenido Tratamiento de Audio y Visión Artificial.png)
+
 esta es la transcripción:
 ### 1. Introducción al análisis de datos audiovisuales (simplemente una sesión de introducción)  Datos audiovisuales: representación digital
 
